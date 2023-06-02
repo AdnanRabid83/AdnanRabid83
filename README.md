@@ -7,7 +7,7 @@
 
 I love to learn new skills and do work hard to fulfill my dream.✌ 
 
-Skills:  JS / HTML / CSS/ FLUTTER / DART
+Skills:  JS / HTML / CSS/ FLUTTER / DART/ Kotlin
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning Android Development 
